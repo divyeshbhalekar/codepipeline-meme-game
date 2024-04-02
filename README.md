@@ -2,6 +2,8 @@
 
 This repo contains the code files used in this [YouTube video](https://youtu.be/biYVW1TMYAU).
 
+<img width="950" alt="meme" src="https://github.com/divyeshbhalekar/codepipeline-meme-game/assets/89533742/ccf4a9aa-cbc6-48fb-9c5e-eb087df04163">
+
 ## TL;DR
 Code for a game is hosted in GitHub.  We create an S3 bucket for static website hosting, then create a continuous deployment pipeline (using AWS Code Pipeline) to automatically deploy the code whenever changes are made.
 
